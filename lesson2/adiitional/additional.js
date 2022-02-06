@@ -16,8 +16,8 @@
 //     result = 'Багато';
 // }
 //
-// let a = prompt('a')
-// let c = prompt('b')
+// let a = +prompt('a')
+// let c = +prompt('b')
 // a + c < 4 ? console.log('мало') : console.log('Багато')
 
 

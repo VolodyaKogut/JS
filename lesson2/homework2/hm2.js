@@ -5,7 +5,7 @@
 // let w = 'друга чверть';
 // let e = 'третя чверть';
 // let r = 'четверта чверть';
-// let time = prompt('enter time');
+// let time = +prompt('enter time');
 // if (time >= 1 && time <= 15) {
 //     console.log(a);
 // } else if (time >= 16 && time <= 30) {
@@ -14,7 +14,7 @@
 //     console.log(e);
 // } else if (time >= 46 && time <= 59) {
 //     console.log(r);
-// }else  {
+// } else {
 //     console.log('krjakozavr');
 // }
 //
@@ -24,7 +24,7 @@
 //
 // let fDay = 'перша половина місяця';
 // let sDay = 'друга половина місяця';
-// let day = prompt('enter date');
+// let day = +prompt('enter date');
 //
 // if (day >= 1 && day <= 15) {
 //     console.log(fDay);
@@ -85,7 +85,9 @@
 //     case '7':
 //         alert('sleep');
 //         break;
-// }
+//     default:
+//         alert('ПОНЕДІЛОК!!!!!');
+//  }
 //
 // // http://bigbird.space:30823
 //
