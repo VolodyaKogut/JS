@@ -39,7 +39,6 @@
 // let maxNumb = (ara) => {
 //     let maxel = ara[0];
 //     for (const arrElement of ara) {
-//
 //         if (arrElement > maxel) {
 //             maxel = arrElement;
 //         }
